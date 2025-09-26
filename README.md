@@ -2,15 +2,14 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=777777&background=00000000&width=400&height=300&lines=Hola+mundo!+Soy+Estrella+Cardozo+🌻" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=777777&background=00000000&width=500&height=400&lines=Hola+mundo!+Soy+Estrella+Cardozo+🌻" alt="Typing SVG">
   </a>
 
   <!-- Imagen animada a la derecha -->
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
   <!-- Divider animado estilo boho más grande -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" style="width:100%; height:20px; border-radius: 15px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" style="width:100%; height:20px; border-radius: 15px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" style="width:100%; height:25px; border-radius: 15px;">
 
   <br>
 
@@ -24,7 +23,7 @@
       💻 Me gusta explorar distintas ramas de la programación y afianzar mis habilidades, especializándome en Front End.<br>
       🎨 Apasionada por el diseño gráfico y web. Actualmente estoy tomando un curso de Experiencia de Usuario (UIX) de Google.<br>
       🌎 Interesada en tecnologías ambientales y en el diseño de páginas web funcionales y estéticas.<br>
-      🍃 Mi objetivo principal es formarme para convertirme en desarrolladora Full Stack, explorando diferentes herramientas mientras profundizo mi pasión por el Front End.</p>
+      🍃 Mi objetivo principal es convertirme en desarrolladora Full Stack, explorando diferentes herramientas mientras profundizo mi pasión por el Front End.</p>
     </div>
   </details>
 
@@ -44,7 +43,6 @@
       </kbd>
       <kbd>
         <kbd>Herramientas</kbd><br><br>
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" title="Git"/>
       </kbd>
     </div>
@@ -57,8 +55,7 @@
     <summary><b>🌸 Proyectos y Links</b></summary>
     <br>
     <div align="center">
-      <p>💻 Mis proyectos están en GitHub: <a href="https://github.com/EstrellaCardozo" target="_blank">Mi GitHub</a></p>
-      <p>🎨 Diseño y prototipos: <a href="https://www.figma.com/@EstrellaCardozo" target="_blank">Figma</a></p>
+      <p>💻 Mis proyectos están en GitHub: <a href="https://github.com/Estreyani" target="_blank">Mi GitHub</a></p>
     </div>
   </details>
 
@@ -74,7 +71,7 @@
   <br>
 
   <!-- Divider animado estilo boho más grande -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" style="width:100%; height:20px; border-radius: 15px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" style="width:100%; height:25px; border-radius: 15px;">
 
   <!-- Gato final -->
   <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat" style="display: block; margin: auto;">
@@ -83,13 +80,13 @@
 
   <!-- Badges -->
   <div align="center">
-    <a href="https://www.linkedin.com/in/EstrellaCardozo/" target="_blank">
+    <a href="https://www.linkedin.com/in/estrella-cardozo-505b44163/" target="_blank">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
     </a>
     <a href="mailto:estreyani@gmail.com" target="_blank">
       <img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
     </a>
-    <a href="https://github.com/EstrellaCardozo" target="_blank">
+    <a href="https://github.com/Estreyani" target="_blank">
       <img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
     </a>
   </div>
