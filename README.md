@@ -2,14 +2,15 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=777777&background=00000000&width=500&height=400&lines=Hola+mundo!+Soy+Estrella+Cardozo+🌻" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=777777&background=00000000&width=400&height=300&lines=Hola+mundo!+Soy+Estrella+Cardozo+🌻" alt="Typing SVG">
   </a>
 
   <!-- Imagen animada a la derecha -->
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
   <!-- Divider animado estilo boho más grande -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" style="width:100%; height:25px; border-radius: 15px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" style="width:100%; height:20px; border-radius: 15px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" style="width:100%; height:20px; border-radius: 15px;">
 
   <br>
 
@@ -23,7 +24,7 @@
       💻 Me gusta explorar distintas ramas de la programación y afianzar mis habilidades, especializándome en Front End.<br>
       🎨 Apasionada por el diseño gráfico y web. Actualmente estoy tomando un curso de Experiencia de Usuario (UIX) de Google.<br>
       🌎 Interesada en tecnologías ambientales y en el diseño de páginas web funcionales y estéticas.<br>
-      🍃 Mi objetivo principal es convertirme en desarrolladora Full Stack, explorando diferentes herramientas mientras profundizo mi pasión por el Front End.</p>
+      🍃 Mi objetivo principal es formarme para convertirme en desarrolladora Full Stack, explorando diferentes herramientas mientras profundizo mi pasión por el Front End.</p>
     </div>
   </details>
 
@@ -71,7 +72,7 @@
   <br>
 
   <!-- Divider animado estilo boho más grande -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" style="width:100%; height:25px; border-radius: 15px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" style="width:100%; height:20px; border-radius: 15px;">
 
   <!-- Gato final -->
   <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat" style="display: block; margin: auto;">
