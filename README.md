@@ -44,6 +44,7 @@
       </kbd>
       <kbd>
         <kbd>Herramientas</kbd><br><br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" title="Git"/>
       </kbd>
     </div>
